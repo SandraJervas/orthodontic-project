@@ -1,0 +1,6 @@
+outs:
+- md5: 347dc691cb832afb84dcedecd841c713.dir
+  size: 1359196554
+  nfiles: 9562
+  hash: md5
+  path: Mendeleydataset
